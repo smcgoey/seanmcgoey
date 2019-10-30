@@ -1,0 +1,115 @@
+body {
+  font-family: Raleway, sans-serif;
+  font-weight:300;
+  color:#010440;
+}
+
+#head_banner {
+  width: 100%;
+}
+
+#main_grid {
+  margin-top: 25px;
+}
+
+.sectionbox {
+  border-bottom: 1px dashed #010440;
+}
+
+.sectionhead {
+  margin-top:10px;
+  margin-left: 5px;
+  margin-bottom: 10px;
+  width:100%;
+  color: #020659;
+}
+
+@media screen and (max-width: 768px) {
+  .sectionhead {
+    text-align:center;
+    margin-top:10px;
+    width:100%;
+    color: #020659;
+  }
+}
+
+.icon {
+  color:#F2E963;
+}
+
+.company-img-left {
+  width: 150px;
+  float: left;
+  padding-right: 20px;
+  padding-bottom: 5px;
+}
+
+.company-img-right {
+  width: 150px;
+  float: right;
+  padding-left: 20px;
+  padding-bottom: 5px;
+}
+
+h4, h5, strong {
+  font-weight: 500;
+}
+
+.description {
+  margin-right: 10px;
+  font-family: Raleway, sans-serif;
+  font-weight: 300;
+}
+
+li {
+  font-weight: 300;
+}
+
+a:link {
+  color:#020659;
+  text-decoration: none;
+}
+
+a:visited {
+  color: blue;
+}
+
+a:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
+.clip-li {
+  margin-right: 20px;
+}
+
+.education-list {
+  margin-right: 10px;
+}
+
+.footer-list {
+  background-color: #343A40;
+  height:25px;
+  text-align:center;
+  margin-bottom: 0px;
+}
+
+.footer-li {
+  display:inline-block;
+  font-size:16px;
+  vertical-align:middle;
+  color:#fff;
+}
+
+.footer-a:link {
+  color:#fff;
+}
+
+.footer-a:hover {
+  color: #F2E963;
+  text-decoration: underline;
+}
+
+.footer-a:visited {
+  color: skyblue;
+}
