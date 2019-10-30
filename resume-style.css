@@ -113,3 +113,21 @@ a:hover {
 .footer-a:visited {
   color: skyblue;
 }
+
+.nav-link:link {
+  color: #FFF;
+}
+
+.nav-link:active {
+  color: #F2E963;
+}
+
+.nav-link:hover {
+  color: #F2E963;
+}
+
+.nav-brand{
+  color:#F2E963;
+  font-weight:600;
+  letter-spacing:.15em;
+}
