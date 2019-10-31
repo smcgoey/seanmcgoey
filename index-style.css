@@ -1,6 +1,6 @@
 body {
   background-image: url("images/index/grasslayers.png");
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: Raleway, Helvetica, Arial, sans-serif;
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
@@ -28,4 +28,55 @@ h2 {
   border: 1px dotted #FFFFFF;
   margin: 0;
   padding: 50px 100px 50px 100px;
+}
+
+.page-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer-list {
+  background-color: #343A40;
+  height:25px;
+  text-align:center;
+  margin-bottom: 0px;
+}
+
+.footer-li {
+  display:inline-block;
+  font-size:16px;
+  vertical-align:middle;
+  color:#fff;
+}
+
+.footer-a:link {
+  color:#fff;
+}
+
+.footer-a:hover {
+  color: #F2E963;
+  text-decoration: underline;
+}
+
+.footer-a:visited {
+  color: skyblue;
+}
+
+.nav-link:link {
+  color: #FFF;
+}
+
+.nav-link:active {
+  color: #F2E963;
+}
+
+.nav-link:hover {
+  color: #F2E963;
+}
+
+.nav-brand{
+  color:#F2E963;
+  font-weight:600;
+  letter-spacing:.15em;
 }
