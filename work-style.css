@@ -99,3 +99,12 @@ h2 {
   margin: 0 auto;
   line-height: 250px;
 }
+
+li {
+  list-style-type: none;
+}
+
+ul {
+  line-height: 175%;
+  margin-left: -25px;
+}
