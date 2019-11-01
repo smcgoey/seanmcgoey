@@ -104,7 +104,7 @@ li {
   list-style-type: none;
 }
 
-ul {
+.clip {
   line-height: 175%;
   margin-left: -25px;
 }
