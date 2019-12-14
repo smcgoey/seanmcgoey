@@ -99,3 +99,12 @@ h2 {
   margin: 0 auto;
   line-height: 250px;
 }
+
+.btn-primary {
+  background-color: #010326 !important;
+}
+
+.btn-primary:hover {
+  background-color: #020659 !important;
+  color: #F2E963 !important;
+}
