@@ -151,6 +151,7 @@ li {
 
 .btn-primary {
   background-color: #010326 !important;
+  color: #FFF !important
 }
 
 .btn-primary:hover {
