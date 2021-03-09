@@ -197,10 +197,12 @@ li {
 hr.story-separator {
   border: 2px solid #303030;
   background-color: #303030;
+  width: 100%;
 }
 
 hr.graphic-separator {
   border: 1px dotted gray;
+  width: 100%;
 }
 
 /* work */
