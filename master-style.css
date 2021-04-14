@@ -52,8 +52,8 @@ p {
 
 .skills-p {
   text-align: justify;
-  margin-right: 10px;
-  margin-left: 10px;
+  /* margin-right: 10px; */
+  /* margin-left: 10px; */
   /* font-family: "Raleway", "Open Sans", Helvetica, Arial, sans-serif; */
   font-weight: 300;
 }
@@ -102,6 +102,10 @@ a:link {
   text-decoration: none;
 }
 
+a.bio-link {
+  font-weight: 500;
+}
+
 a:visited {
   color: blue;
 }
@@ -143,10 +147,11 @@ li {
   color: #F2E963;
 }
 
-.nav-brand{
+.navbar-brand{
   color:#F2E963;
   font-weight:600;
-  letter-spacing:.15em;
+  font-size: 1.5em;
+  /* letter-spacing:.15em; */
 }
 
 .btn-primary {
