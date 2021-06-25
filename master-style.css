@@ -242,6 +242,10 @@ li {
   list-style-type: none;
 }
 
+li.show {
+  list-style-type: circle;
+}
+
 li.clip {
   list-style-type: none;
   line-height: 175%;
