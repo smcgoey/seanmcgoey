@@ -21,6 +21,21 @@ body {
   margin-right: auto;
 }
 
+#main-image {
+  /* max-height: 500px; */
+  max-width: 90%;
+  display: block;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 25px;
+}
+
+#intro-text {
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
 @media screen and (max-width: 768px) {
   #header-image {
     max-height: 350px;
