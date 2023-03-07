@@ -5,25 +5,33 @@ permalink: /media/
 author_profile: true
 ---
 
-#### Data Visualizations
+### Data Visualizations
+      
+<img src="/assets/images/outcomes.png" style="width: 95%" alt="Outcomes of education hearings involving children with disabilities" />
+
+***
+
+<img src="/assets/images/overdose.png" style="width: 95%" alt="Overdose deaths per 100,000 residents from 1999 to 2020" />
+
+***
 
 <div class="flourish-embed flourish-map" data-src="visualisation/9599178">
     <script src="https://public.flourish.studio/resources/embed.js"></script>
 </div>
-      
-<div class="flourish-embed flourish-map" data-src="visualisation/9616252">
-    <script src="https://public.flourish.studio/resources/embed.js"></script>
-</div>
 
-<img src="https://smcgoey.github.io/seanmcgoey/assets/img/portfolio/audit.png" style="width: 95%" alt="Illustration: Richmond Public Schools' technology audit by the numbers" />
+***
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/10767750">
     <script src="https://public.flourish.studio/resources/embed.js"></script>
 </div>
-                       
-<img src="https://smcgoey.github.io/seanmcgoey/assets/img/portfolio/538-forecast-annotation-v3.png" style="width: 95%" alt="Illustration: annotated explanation of FiveThirtyEight's election forecast" />
 
 ***
+                       
+<img src="assets/images/538-forecast-annotation-v3.png" style="width: 95%" alt="Illustration: annotated explanation of FiveThirtyEight's election forecast" />
+
+***
+
+### Audio
 
 #### MEET THE INVESTIGATORS: interviewing investigative journalists about their career journeys
 
@@ -36,10 +44,10 @@ _International Consortium of Investigative Journalists_
 
 ***
 
+### Video
+
 #### Vinyl is going to outsell CDs in 2020. How did we get here?
 
 _JOUR 668I (Designing Stories with Motion Graphics), University of Maryland_
 
-<div class="row">
-    <iframe style="width: 100%" src="https://player.vimeo.com/video/491326634" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe src="https://player.vimeo.com/video/491326634" width="100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>

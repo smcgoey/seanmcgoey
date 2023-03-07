@@ -1,5 +1,5 @@
 ---
-title: "Selected Writing"
+title: "Selected writing"
 layout: single
 classes: wide
 permalink: /writing/
