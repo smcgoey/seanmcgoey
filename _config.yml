@@ -1,0 +1,155 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Sean McGoey
+email: seanmcgoey1@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+twitter_username: SeanMcGoey
+github_username: smcgoey
+minimal_mistakes_skin: contrast
+search: false
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
+timezone: America/New_York
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Sean McGoey"
+  avatar : assets/images/headshot.png
+  #avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Award-winning data and investigative reporter"
+  links:
+    #- label: "Contact Sean:"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://seanmcgoey.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-solid fa-envelope"
+      url: "mailto:seanmcgoey1@gmail.com"  
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/SeanMcGoey"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/seanmcgoey"
+
+footer:
+  links:
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://seanmcgoey.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-solid fa-envelope"
+      url: "mailto:seanmcgoey1@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/SeanMcGoey"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/seanmcgoey"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      
+apple_touch_icons:
+  - icon_path: assets/icons/apple-icon-57x57.png
+    sizes: "57x57"
+  - icon_path: assets/icons/apple-icon-60x60.png
+    sizes: "60x60"
+  - icon_path: assets/icons/apple-icon-72x72.png
+    sizes: "72x72"
+  - icon_path: assets/icons/apple-icon-76x76.png
+    sizes: "76X76"
+  - icon_path: assets/icons/apple-icon-114x114.png
+    sizes: "114x114"
+  - icon_path: assets/icons/apple-icon-120x120.png
+    sizes: "120x120"
+  - icon_path: assets/icons/apple-icon-144x144.png
+    sizes: "144x144"
+  - icon_path: assets/icons/apple-icon-152x152.png
+    sizes: "152x152"
+  - icon_path: assets/icons/apple-icon-180x180.png
+    sizes: "180x180"
+
+icons:
+  - icon_path: assets/icons/android-icon-192x192.png
+    sizes: "192x192"
+  - icon_path: assets/icons/favicon-32x32.png
+    sizes: "32x32"
+  - icon_path: assets/icons/favicon-96x96.png
+    sizes: "96x96"
+  - icon_path: assets/icons/favicon-16x16.png
+    sizes: "16x16"
+
+manifest: manifest.json
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/

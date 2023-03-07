@@ -1,0 +1,19 @@
+main:
+  #- title: "Posts"
+  #  url: /posts/
+  #- title: "Categories"
+  #  url: /categories/
+  #- title: "Tags"
+  #  url: /tags/
+  - title: "Home"
+    url: /
+  - title: "Writing"
+    url: /writing/
+  - title: "Graphics/Media"
+    url: /media/
+  - title: "Resume"
+    url: /resume/
+  - title: "Music"
+    url: /music/
+  - title: "About"
+    url: /about/

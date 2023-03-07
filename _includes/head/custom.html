@@ -1,0 +1,23 @@
+{% if page.page_css %}
+  {% for stylesheet in page.page_css %}
+    <link rel="stylesheet" href="{{ stylesheet | relative_url }}">
+  {% endfor %}
+{% endif %}
+
+{% if page.apple_touch_icons %}
+  {% for icon_path in page.apple_touch_icons %}
+    <link rel="apple-touch-icon" sizes= "{{ icon_path | sizes }}" href="{{ icon_path | relative_url }}">
+  {% endfor %}
+{% endif %}
+
+{% if page.icons %}
+  {% for icon_path in page.icons %}
+    <link rel="icon" type="image/png" sizes= "{{ icon_path | sizes }}" href="{{ icon_path | relative_url }}">
+  {% endfor %}
+{% endif %}
+
+{% if page.manifest %}
+  {% for manifest in page.manifest %}
+    <link rel="manifest" href="{{ manifest | relative_url }}">
+  {% endfor %}
+{% endif %}
