@@ -5,7 +5,7 @@ permalink: /media/
 author_profile: true
 ---
 
-### Data Visualizations
+## Data Visualizations
       
 <img src="/assets/images/outcomes.png" style="width: 95%" alt="Outcomes of education hearings involving children with disabilities" />
 
@@ -27,11 +27,11 @@ author_profile: true
 
 ***
                        
-<img src="assets/images/538-forecast-annotation-v3.png" style="width: 95%" alt="Illustration: annotated explanation of FiveThirtyEight's election forecast" />
+<img src="/assets/images/538-forecast-annotation-v3.png" style="width: 95%" alt="Illustration: annotated explanation of FiveThirtyEight's election forecast" />
 
 ***
 
-### Audio
+## Audio
 
 #### MEET THE INVESTIGATORS: interviewing investigative journalists about their career journeys
 
@@ -44,10 +44,8 @@ _International Consortium of Investigative Journalists_
 
 ***
 
-### Video
+## Video
 
-#### Vinyl is going to outsell CDs in 2020. How did we get here?
+#### [Vinyl is going to outsell CDs in 2020. How did we get here?](https://vimeo.com/491326634?embedded=true&source=vimeo_logo&owner=38422704){:target="_blank"}
 
 _JOUR 668I (Designing Stories with Motion Graphics), University of Maryland_
-
-<iframe src="https://player.vimeo.com/video/491326634" width="100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
