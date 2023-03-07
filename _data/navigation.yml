@@ -15,5 +15,5 @@ main:
     url: /resume/
   - title: "Music"
     url: /music/
-  - title: "About"
-    url: /about/
+#  - title: "About"
+#    url: /about/

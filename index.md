@@ -40,7 +40,7 @@ I'm a journalist based in Richmond, Virginia, and I currently work as a data rep
 
 Before joining the Times-Dispatch staff, I was part of the reporting team behind the [Pandora Papers](https://www.icij.org/investigations/pandora-papers/){:target="_blank"}, an investigation into global financial corruption led by the International Consortium of Investigative Journalists. I helped analyze a trove of 12 million leaked documents containing information on offshore financial holdings by powerful figures including world leaders and prominent politicians, and I reported on [the shell companies owned by famous athletes and entertainers](https://www.icij.org/investigations/pandora-papers/shakira-sachin-julio-celebrities-use-offshore/){:target="_blank"}.
 
-I grew up in the greatest city on the planet — New Orleans, Louisiana — and have a master's degree in journalism from the University of Maryland's Philip Merrill College of Journalism and a bachelor's degree in economics from the University of Virginia. When I'm not reporting, I host a podcast called [It's Pretty OK](https://prettyokpod.com){:target="_blank"}, play the guitar, read, and reminisce on my time as a late-night radio host for WTJU in Charlottesville, Virginia.
+I grew up in New Orleans, Louisiana and have a master's degree in journalism from the University of Maryland's Philip Merrill College of Journalism and a bachelor's degree in economics from the University of Virginia. When I'm not reporting, I host a podcast called [It's Pretty OK](https://prettyokpod.com){:target="_blank"}, play the guitar, read, and reminisce on my time as a late-night radio host for WTJU in Charlottesville, Virginia.
 
 ***
 
