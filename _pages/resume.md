@@ -8,9 +8,11 @@ author_profile: true
 
 ## WORK
 
+![Richmond Times-Dispatch](/assets/images/rtd.jpg) {: .align-left}
+
 ### Richmond Times-Dispatch
 
-![Richmond Times-Dispatch](/assets/images/rtd.jpg) __Data Reporter \|\| January 2022–present__
+__Data Reporter \|\| January 2022–present__
 
 * Reporting on data-focused stories on education, business and politics for state capital’s daily newspaper
 * Collaborating with reporters from state and metro desks to report larger enterprise stories
