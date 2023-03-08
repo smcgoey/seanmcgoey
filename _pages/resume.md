@@ -8,7 +8,7 @@ author_profile: true
 
 ## WORK
 
-![Richmond Times-Dispatch](/assets/images/rtd.jpg) ### Richmond Times-Dispatch
+### Richmond Times-Dispatch
 
 __Data Reporter \|\| January 2022–present__
 
