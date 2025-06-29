@@ -8,23 +8,40 @@ author_profile: true
 
 ## WORK
 
+### VPM News
+
+__News Editor \|\| June 2024–present__
+
+* Assigning, editing and producing daily multiplatform (web/radio/video) news stories for Central Virginia's public media outlet
+* Data visualization and editing for longer-term investigations
+* Managing daily Morning Monitor email newsletter
+
+***
+
+### 1point21 Interactive
+
+__Data Journalist \|\| July 2023–June 2024__
+
+* Researched and wrote data-focused blog posts with infographics and other data visualizations for legal clients
+
+***
+
 ### Richmond Times-Dispatch
 
-__Data Reporter \|\| January 2022–present__
+__Data Reporter \|\| January 2022–June 2023__
 
-* Reporting on data-focused stories on education, business and politics for state capital’s daily newspaper
-* Collaborating with reporters from state and metro desks to report larger enterprise stories
-* Creating static and interactive data visualizations for print and web presentations
+* Enterprise and breaking news stories for state capital daily newspaper
+* Designed infographics and data visualizations
+* Responsible for 11 new digital subscriptions in first month after shift in newsroom metrics
 
 ***
 
 ### International Consortium of Investigative Journalists
 
-__Editorial Fellow \|\| January 2021–December 2021__
+__Roy W. Howard Editorial Fellow \|\| January 2021–December 2021__
 
 * Part of the Pandora Papers investigation team: analyzing data from leaked records of offshore financial structures, reporting on notable account holders from the world of sports and entertainment, and fact checking stories about holdings of political leaders
-* Oversaw all aspects of the “Meet the Investigators” podcast: writing and fact checking scripts, interviewing guests, recording narration/audio transitions, mixing and editing all audio
-* Member of the inaugural Roy W. Howard Fellowship class
+* Hosted, produced and edited the “Meet the Investigators” podcast
 
 ***
 
@@ -87,13 +104,19 @@ B.A., Economics, __University of Virginia__ (May 2014)
 
 ## AWARDS
 
-### Society of Professional Journalists - Sigma Delta Chi Awards 2020
+### Virginia Press Association — 2023 Awards Contest
+Bridge safety coverage — Winner, Data Journalism (Daily)
+
+### Virginia Press Association — 2022 Awards Contest
+Education reporting portfolio — Winner, Data Journalism (Daily)
+
+### Society of Professional Journalists — Sigma Delta Chi Awards 2020
 Nowhere to Go (Howard Center for Investigative Journalism) - Winner, Collaborative Journalism
 
-### Society of Professional Journalists DC Chapter - Dateline Awards 2021
+### Society of Professional Journalists DC Chapter — Dateline Awards 2021
 Nowhere to Go (Howard Center for Investigative Journalism) - Winner, Online Non-Breaking News
 
-### Society of Professional Journalists - Region 2 Mark of Excellence Awards 2021
+### Society of Professional Journalists — Region 2 Mark of Excellence Awards 2021
 Disconnected: Students struggle with e-learning obstacles, lawmakers earmark solutions (Capital News Service) - Winner, Online News Reporting
 
 ***
