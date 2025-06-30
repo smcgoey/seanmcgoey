@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Editor at VPM News in Richmond, Virginia. Award-winning data and investigative reporter at Richmond Times-Dispatch, ICIJ and elsewhere.
 twitter_username: SeanMcGoey
 github_username: smcgoey
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: contrast
 search: false
 
 # Build settings
