@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Sean McGoey"
-  avatar : assets/images/headshot.png
+  avatar : assets/images/headshot2.png
   #avatar : "/assets/images/bio-photo.jpg"
   bio    : "Award-winning data and investigative reporter"
   links:
@@ -68,8 +68,8 @@ author:
       icon: "fas fa-fw fa-solid fa-envelope"
       url: "mailto:seanmcgoey1@gmail.com"  
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/SeanMcGoey"
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/seanmcgoey.com"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"
