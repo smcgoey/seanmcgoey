@@ -57,7 +57,7 @@ author:
   name   : "Sean McGoey"
   avatar : assets/images/headshot2.png
   #avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Award-winning data and investigative reporter."
+  bio    : "Award-winning data and investigative reporter"
   links:
     #- label: "Contact Sean:"
     #  icon: "fas fa-fw fa-link"
