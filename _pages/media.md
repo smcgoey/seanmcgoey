@@ -7,6 +7,16 @@ author_profile: true
 
 ## Data Visualizations
       
+<div class="flourish-embed flourish-map" data-src="visualisation/17846295">
+    <script src="https://public.flourish.studio/resources/embed.js"></script>
+</div>
+
+***
+
+<div style="min-height:768px" id="datawrapper-vis-gR2Al"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/gR2Al/embed.js" charset="utf-8" data-target="#datawrapper-vis-gR2Al"></script><noscript><img src="https://datawrapper.dwcdn.net/gR2Al/full.png" alt="This chart shows enrollment growth from the 2009-10 school year to the 2023-24 school year for the Virginia Military Survivors and Dependent Education Program (VMSDEP), a program that grants tuition and fee waivers to surviving spouses and children of deceased military personnel. Eligibility was expanded in the 2019-20 school year, and since then, the number of people enrolled under VMSDEP has at least tripled at each of Virginia's public four-year colleges and universities." /></noscript></div>
+
+***
+
 <img src="/assets/images/outcomes.png" style="width: 95%" alt="Outcomes of education hearings involving children with disabilities" />
 
 ***

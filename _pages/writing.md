@@ -6,27 +6,45 @@ permalink: /writing/
 author_profile: true
 ---
 
-### U.S. probe into racial bias in Henrico Schools prompts gifted overhaul
+### Who is responsible for vetting local campaign finance reports?
 
-*Richmond Times-Dispatch \|\| February 20, 2023*
+*VPM News \|\| November 1, 2024*
 
-For years, Black students like Matthew Docteur have been systemically underrepresented in Henrico County’s gifted program. Countywide, Black students made up 36% of the public schools population in the 2020-21 academic year, but only 14% of the gifted program.
+Amid questions surrounding the fundraising numbers, legal credentials and campaign finance reports of Richmond City Council candidate Tavares Floyd, Virginia election law is getting a lot of attention.
 
-The Office for Civil Rights, an arm of the U.S. Department of Education, investigated whether Henrico County Public Schools discriminated against African American students by failing to provide them with comparable resources and educational opportunities that are provided to white students to prepare them for postsecondary education or careers.
+A crucial question being asked: Who’s responsible for ensuring that candidates’ financial disclosures are accurate?
 
-[Read more >](https://richmond.com/news/local/education/u-s-probe-into-racial-bias-in-henrico-schools-prompts-overhaul-of-gifted-program/article_79fb9c76-aee8-11ed-9010-a7deb7a95067.html){:target="_blank"}{: .btn .btn--danger}
+Richmond’s top elections official, the city’s lead prosecutor and the state elections department are all certain of one thing: It’s not them.
+
+[Read more >](https://www.vpm.org/elections/2024-11-01/keith-balmer-colette-mceachin-tavares-floyd-campaign-finance-investigation){:target="_blank"}{: .btn .btn--danger}
 
 ***
 
-### Richmond's Jewish community remembers Kristallnacht
+### Funeral home founder refutes Tavares Floyd’s ownership claim
 
-*Richmond Times-Dispatch \|\| November 6, 2022*
+*VPM News \|\| October 22, 2024*
 
-On the night of Nov. 9, 1938, Nazi paramilitary forces and German civilians engaged in a wave of violence and vandalism targeting Jewish homes, businesses and synagogues across Germany and Austria. The campaign of violence became known as Kristallnacht, the “Night of Broken Glass,” because of the shattered glass strewn in the streets.
+Tavares Floyd listed himself as an owner of Charlottesville’s “McClenny + Watkins Funeral Home” on a financial disclosure form he filed with the Richmond City General Registrar to run for the 6th District council seat.
 
-On Sunday afternoon, Holocaust survivors and their family members gathered at the Emek Sholom Holocaust Memorial Cemetery in Henrico County, the oldest Holocaust memorial in the country, for an annual Kristallnacht memorial service.
+Robert “R.B.” McClenny Jr., the funeral home’s owner, told VPM News that’s not true. Floyd “has never owned any part of the business,” McClenny said in a phone call Tuesday.
 
-[Read more >](https://richmond.com/news/local/richmonds-jewish-community-remembers-kristallnacht/article_60639027-d1c3-533c-8051-45dde9fd7bd8.html){:target="_blank"}{: .btn .btn--danger}
+McClenny said Floyd worked for the funeral home “about five or six years ago” and still provides help on a part-time basis as an attendant for funeral services.
+
+[Read more >](https://www.vpm.org/elections/2024-10-22/tavares-floyd-mcclenny-watkins-funeral-richmond){:target="_blank"}{: .btn .btn--danger}
+
+***
+
+### Tavares Floyd is not licensed to practice law in any U.S. state, territory
+
+*VPM News \|\| October 21, 2024*
+
+Tavares Floyd, a candidate for Richmond City Council, describes himself as “a lawyer, small business owner, lecturer, public servant and community advocate” on his campaign website.
+
+The 6th District candidate has also been listed as a civil rights attorney in biography pages and blog posts from organizations he’s been involved with.
+
+But Floyd — who is running against his former boss, Councilor Ellen Robertson — is seemingly not licensed to practice law in Virginia. Further investigation revealed Floyd is unlikely to be a licensed lawyer anywhere in the U.S.
+
+[Read more >](https://www.vpm.org/elections/2024-10-21/richmond-6th-district-city-council-tavares-floyd-lawyer-ceo){:target="_blank"}{: .btn .btn--danger}
 
 ***
 
