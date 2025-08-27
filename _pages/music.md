@@ -21,7 +21,7 @@ author_profile: true
 ### All-time Spotify streaming by time of day (2011-October 2022)
 
 
-![Graphic of Spotify listening time by hour](https://smcgoey.github.io/mm-test/assets/images/spotify-graphic.png)
+![Graphic of Spotify listening time by hour](https://seanmcgoey.com/assets/images/spotify-graphic.png)
 
 ***
 
