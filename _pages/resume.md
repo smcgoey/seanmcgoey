@@ -104,6 +104,9 @@ B.A., Economics, __University of Virginia__ (May 2014)
 
 ## AWARDS
 
+### Radio Television Digital News Association — 2025 Regional Edward R. Murrow Awards
+Brown v. Board of Education, 70 years later — Winner, Digital, Radio|Small Market
+
 ### Virginia Press Association — 2023 Awards Contest
 Bridge safety coverage — Winner, Data Journalism (Daily)
 
